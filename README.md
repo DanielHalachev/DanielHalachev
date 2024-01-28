@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielHalachev
 - 👀 I’m interested in software engineering, history, foreign languages and cuisine.
-- 🌱 I’m currently learning XML,Scheme & Haskell
+- 🌱 I’m currently learning Rust
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me dani22h09_pl@abv.bg
 
